@@ -1,0 +1,51 @@
+#left-col h1 {
+    color: D1CA98;
+}
+
+#left-col {
+    background-color: 7EA172;
+    height: 200vh;
+    width: 20em;
+}
+
+body {
+    background-color: 477890;
+}
+
+.student {
+    font-size: 1.6em;
+    color: 477890;
+}
+
+.col h2 {
+    color: FFB140;
+}
+
+.pic {
+    border-radius: 100%;
+}
+
+.row {
+    font-size: 1em;
+}
+
+#right-col h1 {
+    color: FFB140;
+}
+
+#right-col {
+    margin-left: 20em;
+}
+
+ul {
+    list-style: none; 
+}
+
+a {
+    color: FFB140;
+    
+}
+
+a:hover {
+    color: whitesmoke;
+}
