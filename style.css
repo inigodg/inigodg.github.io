@@ -1,36 +1,26 @@
 #left-col h1 {
-    color: D1CA98;
+    color: 73937E;
+    font-style: oblique;
 }
 
 #left-col {
-    background-color: 7EA172;
+    background-color: 5D5D81;
     height: 200vh;
     width: 20em;
 }
 
 body {
-    background-color: 477890;
-}
-
-.student {
-    font-size: 1.6em;
-    color: 477890;
-}
-
-.col h2 {
-    color: FFB140;
+    background-color: 539987;
 }
 
 .pic {
     border-radius: 100%;
-}
-
-.row {
-    font-size: 1em;
+    margin-left: 40px;
 }
 
 #right-col h1 {
-    color: FFB140;
+    color: CEB992;
+    font-style: oblique;
 }
 
 #right-col {
@@ -38,14 +28,31 @@ body {
 }
 
 ul {
-    list-style: none; 
+    list-style: circle; 
 }
 
 a {
-    color: FFB140;
-    
+    color: CEB992;
+    font-style: oblique;
 }
 
 a:hover {
-    color: whitesmoke;
+    color:cadetblue;
+}
+
+#right-col h2 {
+    text-align: left;
+    color: CEB992;
+    font-style: oblique;
+}
+
+#right-col {
+    text-align: center;
+    text-align: justify;
+    font-style: oblique;
+}
+
+#right-col h1 {
+    text-align: center;
+    
 }
